@@ -1,7 +1,10 @@
 # lab_kuber_basis №9
 1. Для начала необходимо установить minikube на нашу ВМ
+ 
   а) Скачиваем и инсталлируем minikube
+  
   б) Добавляем себе права
+  
   в) Отключаем своп
   <img width="840" height="671" alt="image" src="https://github.com/user-attachments/assets/91043687-e684-417d-a2b9-5cfa3a08fe4f" />
   г) Запускаем minikube в режим однонодового кластера k8s
